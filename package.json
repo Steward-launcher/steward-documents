@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev .",
-    "build": "vuepress build ."
+    "build": "sh ./build/release.sh"
   },
   "author": "",
   "license": "ISC"
