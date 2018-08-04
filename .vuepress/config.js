@@ -97,7 +97,7 @@ module.exports = {
                 sidebar: [
                     ['/zh/', '介绍'],
                     ['/zh/guide', '入门'],
-                    ['/download', '下载安装'],
+                    ['/zh/download', '下载安装'],
                     {
                         title: '浏览器插件',
                         children: [
@@ -155,12 +155,12 @@ module.exports = {
                             ['/zh/plugins/other/youdao.md', '词典']
                         ]
                     },
-                    ['/Workflows', '工作流'],
-                    ['/wallpaper', '壁纸'],
-                    ['/FAQ', '常用问题'],
-                    ['/Authorization-Service', '授权服务'],
-                    ['/Beta', '测试版'],
-                    ['/CHANGELOG', '更新日志']
+                    ['/zh/Workflows', '工作流'],
+                    ['/zh/wallpaper', '壁纸'],
+                    ['/zh/FAQ', '常用问题'],
+                    ['/zh/Authorization-Service', '授权服务'],
+                    ['/zh/Beta', '测试版'],
+                    ['/zh/CHANGELOG', '更新日志']
                 ]
             }
         }
