@@ -1,4 +1,5 @@
 module.exports = {
+    base: '/steward-document',
     locales: {
         '/': {
           lang: 'en-US',
