@@ -1,5 +1,5 @@
 module.exports = {
-    base: '/steward-document',
+    base: '/steward-document/',
     locales: {
         '/': {
           lang: 'en-US',
