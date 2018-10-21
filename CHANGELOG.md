@@ -136,9 +136,9 @@
 - The wallpaper command shows the source.
 
 #### v3.2.2
-- Wallpaper sources can be set in Settings -> Genenral; 
+- Wallpaper sources can be set in Settings -> Genenral;
 - newtab plugin, trigger: `nt` , some settings for Steward's new tabs;
-- Search results should be sorted according to usage; 
+- Search results should be sorted according to usage;
 - Search engine format optimization, you can use `%s` as a placeholder.
 
 #### v3.2.1
@@ -171,7 +171,7 @@ fix bug of workflow.
 - Plugin icon replacement;
 - note plugin add notes command to display all the notes, press SHIFT + ENTER to delete a single note;
 - note / todo plugin storage usage alert;
-- Set max workflows num to 20. 
+- Set max workflows num to 20.
 
 #### v3.1.7
 Optimize UI interface of new tab
@@ -181,7 +181,7 @@ Solve the New Tab wallpaper adaptation problem;
 Update the About information。
 
 #### v3.1.5
-More friendly command prompt; 
+More friendly command prompt;
 help plugin optimization.
 
 #### v3.1.4
@@ -198,7 +198,7 @@ Add random feature, random use of the tab command to add the command by trigger:
 
 #### v3.1.1
 Add workflow delete button;
-Update todo plugin; 
+Update todo plugin;
 Added tabm command to move the selected tab；
 Search engines can be customized#11;
 
@@ -207,8 +207,8 @@ Add workflow panel，to create or edit workflow, as well as add a workflow plugi
 Video
 
 #### v3.0.2
-Added tabc command to close one or more matching tabs; 
-bm / site / his command, can open a group of tab with shift keypress; 
+Added tabc command to close one or more matching tabs;
+bm / site / his command, can open a group of tab with shift keypress;
 ext command with Shift keypress to open the extended homepage. video
 
 #### v3.0.1
@@ -216,19 +216,19 @@ Fix for crash caused by urlblock (todo change tag caption temporarily removed);
 Some other optimization.
 
 #### v3.0
-Added restore initialization settings; 
-Can set newTab scroll to the bottom automatically to the middle position; 
-Bookmark delete command - trigger: bmd; 
-Add custom plugin, which can custom default command of the newTab input box; 
-Unblock url and then restore the page; 
-Remove todo then restore the title; 
-Random wallpaper from bing or collection, and automatically hide the save button; 
-Performance optimization. 
+Added restore initialization settings;
+Can set newTab scroll to the bottom automatically to the middle position;
+Bookmark delete command - trigger: bmd;
+Add custom plugin, which can custom default command of the newTab input box;
+Unblock url and then restore the page;
+Remove todo then restore the title;
+Random wallpaper from bing or collection, and automatically hide the save button;
+Performance optimization.
 video
 
 #### v2.9.1
-The NewTab command can be customized in addition to the options; 
-The note command automatically add tag of the host when used in page. 
+The NewTab command can be customized in addition to the options;
+The note command automatically add tag of the host when used in page.
 video
 
 #### v2.9
@@ -238,11 +238,11 @@ Optimize
 i18n update
 
 #### v2.8.6
-When using urlblock within a page, enter / automatically bring out the current domain name; 
+When using urlblock within a page, enter / automatically bring out the current domain name;
 Optimize the experience within the page.
 
 #### v2.8.5
-Optimize the experience used within the page; 
+Optimize the experience used within the page;
 Add github plugin.
 
 #### v2.8.4

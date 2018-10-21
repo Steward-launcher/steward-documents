@@ -57,7 +57,7 @@
 - 通过 wd 命令提供单词小卡片常用选项。
 
 #### [v3.4.5](http://bbs.oksteward.com/topic/5ae6e5530f590c684784a3db)
-- 通过 css selector 给特定页面添加锚点，快速定位;
+- 通过 css selector 给特定页面添加锚点，快速定位；
 - 主题可以使用 color-picker 编辑；
 - 其它一些优化以及问题修复。
 
@@ -92,18 +92,18 @@
 - 支持非链接导航.
 
 #### v3.3.2
-- 优化 Websites Navs 提取； 
+- 优化 Websites Navs 提取；
 - 修复 Websites Paths 的 bug.
 
 #### v3.3.1
-- Websites 新增 outline 功能; 
+- Websites 新增 outline 功能;
 - Websites path 优化。
 
 #### v3.3
 - 新增 Websites 配置面板。
 
 #### v3.2.9
-- 添加随机壁纸开关选项; 
+- 添加随机壁纸开关选项;
 - 优化 pocket 插件列表显示逻辑。
 
 #### v3.2.8
@@ -147,7 +147,7 @@
 - help 命令支持搜索。
 
 #### v3.2
-- 在壁纸来源中添加 picsum.photos，目前已有1000来张; 
+- 在壁纸来源中添加 picsum.photos，目前已有1000来张;
 - 新增壁纸插件, 命令 trigger: wp，提供刷新、保存、添加壁纸链接功能；
 - New Tab UI 优化及其它一些样式优化；
 - todo 完成后自动加入 done 列表，使用 done 命令查看；
@@ -170,7 +170,7 @@
 
 #### v3.1.8
 - 插件图标更换；
-- note 插件添加 `notes` 命令，显示所有的 note，按 `Shift + Enter` 时删除单条 note; 
+- note 插件添加 `notes` 命令，显示所有的 note，按 `Shift + Enter` 时删除单条 note;
 - note / todo 插件 storage 使用限制提醒;
 - workflow 最大只能创建 **20** 条。
 
