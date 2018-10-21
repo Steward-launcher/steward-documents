@@ -36,6 +36,8 @@ Browser Alfred 是不占用 New Tab 的 Steward，避免你做二选一的决定
 ---
 Steward 的特点在于：
 - 更丰富的插件
+- 提供插件 api，允许用户自己开发插件
+- spm 插件管理器
 - 三种使用模式
 - 可以自定义 trigger
 - 新标签模式使 Steward 拥有更多的可能
@@ -76,6 +78,12 @@ Steward 的特点在于：
 > 命令的trigger基本上都是可以自行定义的，在设置 -> plugins面板，如果trigger右侧有小图标，hover上去会有提示
 
 ![Imgur](https://i.imgur.com/8K6buyw.png)
+
+插件
+---
+Steward 自带一系列插件，足以帮助你完成大部分浏览器操作；同步 Steward 开放插件 api，只需要几行代码就能自定义自己的插件。
+
+Steward 提供 `spm` 命令，用来查看安装、卸载第三方插件。
 
 什么是 workflow
 ---

@@ -21,6 +21,7 @@ module.exports = {
                     ['/', 'Introduction'],
                     ['/guide', 'Get Started'],
                     ['/download', 'Download'],
+                    ['/plugins/plugins', 'Plugins'],
                     {
                         title: 'Three modes',
                         children: [
@@ -53,13 +54,6 @@ module.exports = {
                         ]
                     },
                     {
-                        title: 'Website Plugins',
-                        children: [
-                            ['/plugins/website/Github', 'Github'],
-                            ['/plugins/website/Zhihu', 'Zhihu'],
-                        ]
-                    },
-                    {
                         title: 'Steward Plugins',
                         children: [
                             ['/plugins/steward/Custom.md', 'Custom'],
@@ -87,6 +81,7 @@ module.exports = {
                         ]
                     },
                     ['/Workflows', 'Workflows'],
+                    ['/Websites', 'Websites'],
                     ['/wallpaper', 'Wallpaper'],
                     ['/FAQ', 'FAQ'],
                     ['/Authorization-Service', 'Authorization Service'],
@@ -99,6 +94,7 @@ module.exports = {
                     ['/zh/', '介绍'],
                     ['/zh/guide', '入门'],
                     ['/zh/download', '下载安装'],
+                    ['/zh/plugins/plugins', '插件'],
                     {
                         title: '浏览器插件',
                         children: [
@@ -120,13 +116,6 @@ module.exports = {
                         title: '扩展类插件',
                         children: [
                             ['/zh/plugins/extension/wordcard', '单词小卡片']
-                        ]
-                    },
-                    {
-                        title: '网站类插件',
-                        children: [
-                            ['/zh/plugins/website/Github', 'Github'],
-                            ['/zh/plugins/website/Zhihu', '知乎']
                         ]
                     },
                     {
@@ -157,6 +146,7 @@ module.exports = {
                         ]
                     },
                     ['/zh/Workflows', '工作流'],
+                    ['/zh/Websites', '网站配置'],
                     ['/zh/wallpaper', '壁纸'],
                     ['/zh/FAQ', '常用问题'],
                     ['/zh/Authorization-Service', '授权服务'],

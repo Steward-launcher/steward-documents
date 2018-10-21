@@ -1,7 +1,9 @@
-Steward - 帮助中心 -- v3.4.5
+Steward - 帮助中心 -- v3.5.3
 =======
 
 > 友情提示： 如果不需要 `New Tab` 模式，可以选择与 [Steward](https://chrome.google.com/webstore/detail/dnkhdiodfglfckibnfcjbgddcgjgkacd) 同源的 **Browser Alfred** -- [Chrome 应用商店](https://chrome.google.com/webstore/detail/jglmompgeddkbcdamdknmebaimldkkbl)
+
+> 说明：编写此文档的工作量巨大，如有疏漏之处请见谅，或帮助我[完善此文档](https://github.com/Steward-launcher/steward-documents)。
 
 目录
 ---

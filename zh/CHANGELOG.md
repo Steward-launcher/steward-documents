@@ -1,3 +1,61 @@
+#### v3.5.3
+- 新增 wsm 插件，wsm install / wsm uninstal 命令安装、卸载 website 配置；
+- website 社区驱动，参考: http://bbs.oksteward.com/topic/5bc065860f590c684784a411
+- 优化页面模式的 outline 功能。
+
+#### v3.5.2
+- 新增 spm 插件，spm install / spm uninstal 命令安装、卸载插件；
+- 更新 plugin api。
+
+#### v3.5.1
+- 开放插件 api, 允许用户自行编写插件，在 设置 --> 高级 --> 插件编辑中使用；
+- 优化包大小；
+- New Tab 底部按钮组件化配置。
+
+#### v3.5
+- 为 newtab 新增时钟/快捷方式组件，在 设置 --> 通用 --> NewTab 设置中选择使用；
+- 重构。
+
+#### v3.4.13
+- website 分享优化，支持分享选中文字 ;
+- website 分享根据使用排序.
+
+#### v3.4.12
+- 重新设计 Browser Alfred New Tab 模式，请访问 lai.app;
+- 壁纸操作优化。
+
+#### v3.4.11
+- websites url 匹配支持 minimatch;
+- nt 命令 bug 修复;
+- 因 https 证书过期，移除新浪 short url 功能.
+
+#### v3.4.10
+- websites 支持 vuepress 站点;
+- 文档链接更新;
+- coins 支持缓存，coin 支持选择交易所缓存.
+
+#### v3.4.9
+- 新增 coin market 插件，查询最新的数字货币价格，包括coin 以及 coins命令；
+- 一定程度上优化 dl 命令性能问题；
+- 新增繁体中文语言包。
+
+#### v3.4.8
+- 新增 pixabay 壁纸来源；
+- 更好的国际化支持，一些样式优化；
+- 移除 google 统计以提高性能。
+
+#### v3.4.7
+- 额外提供 10 个快捷键，以方便自定义命令快捷方式；
+- yd 插件修复，以 google 翻译代替有道词典；
+- 页面模式的分享列表可以在选项 --> Advanced 里自定义。
+
+#### v3.4.6
+- 为网站自动配置 Websites 功能，默认开启；
+- 页面模式下提供当前页面的常用操作以及信息，以单引号 ' 为 trigger;
+- 提供当前页面的二维码图片及短网址功能，以单引号 ' 为 trigger，默认开启；
+- Websites 生成社会化分享链接，以 @ 为 trigger, 默认开启;
+- 通过 wd 命令提供单词小卡片常用选项。
+
 #### [v3.4.5](http://bbs.oksteward.com/topic/5ae6e5530f590c684784a3db)
 - 通过 css selector 给特定页面添加锚点，快速定位;
 - 主题可以使用 color-picker 编辑；

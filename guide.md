@@ -13,6 +13,7 @@ Table of Contents
 - [Popup Mode](#popup-mode)
 - [Page Mode](#[age-mode)
 - [Customize shortcuts](#customize-shortcuts)
+- [Plugins](#plugins)
 - [Custom command](#custom-command)
 - [What is workflow](#what-is-workflow)
 - [How to use workflow](#how-to-use-workflow)
@@ -65,6 +66,12 @@ Customize shortcuts
 > Go to `chrome://extensions/` extension settings page, scroll the page to the bottom, the text button on the bottom right corner of the keyboard shortcuts, click pop-up to modify
 
 ![Imgur](https://i.imgur.com/1PQfBNq.png)
+
+Plugins
+---
+Steward comes with a set of plugins that will help you with most of the browser operations; meanwhile Steward provides plugin api, you can develop your plugin with just a few lines of code.
+
+Steward provides the `spm` command to install or uninstall the third-party plugins.
 
 Custom command
 ---
