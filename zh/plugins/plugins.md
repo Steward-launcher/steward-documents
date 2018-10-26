@@ -28,7 +28,9 @@ Steward 自带插件可以分为以下4类
     dayjs, // 日期库
     $, // jquery
     axios, // http 库
-    constant // 常量
+    constant, // 常量,
+    storage, // chrome.storage 的 promise 封装
+    browser // https://github.com/mozilla/webextension-polyfill
 }
 ```
 
@@ -42,7 +44,7 @@ Steward 自带插件可以分为以下4类
     category: 'other', // 插件类别，填 ‘other’ 就好，暂时没用
     icon, // 插件 icon
     title, // 插件标题
-    commands, // 插件命令列表，不能为空
+    commands, // 插件命令列表，可以为空，为空时插件类型为 search
     onInput, // 核心 api, 输入事件函数
     onEnter // 核心 api，选中事件函数
 }

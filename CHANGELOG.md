@@ -1,3 +1,9 @@
+#### v3.5.4
+- Optimize the performance of the Bookmark plugin;
+- Move the jenkins / coin / times plugin to the plugins repository, please use spm to install;
+- Plugin api enhancement;
+- Fix some bugs;
+
 #### v3.5.3
 - Added wsm plugin, wsm install / wsm uninstal command to install and uninstall website configuration;
 - website Community Driver, reference: http://bbs.oksteward.com/topic/5bc065860f590c684784a411

@@ -30,7 +30,9 @@ Plugin code is wrappered with `module.exports = function(steward) {}`，`steward
     dayjs, // date library
     $, // jquery
     axios, // http library
-    constant //
+    constant, //
+    storage, // chrome.storage with promise style
+    browser // https://github.com/mozilla/webextension-polyfill
 }
 ```
 
@@ -44,7 +46,7 @@ Plugin code is wrappered with `module.exports = function(steward) {}`，`steward
     category: 'other', // category of plugin，just use `other`
     icon, // plugin icon
     title, // plugin title
-    commands, // commaneds of plugin, required
+    commands, // commaneds of plugin, if empty, means a plugin of search type
     onInput, // core api, triggered when user enters
     onEnter // core api，triggered when user clicks one item or press enter / return
 }

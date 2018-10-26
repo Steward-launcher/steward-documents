@@ -1,3 +1,9 @@
+#### v3.5.4
+- 优化 Bookmark 插件性能；
+- 将 jenkins / coin / times 插件转至 plugins 仓库，请使用 spm 安装；
+- plugin api 增强；
+- 修复一些 bug;
+
 #### v3.5.3
 - 新增 wsm 插件，wsm install / wsm uninstal 命令安装、卸载 website 配置；
 - website 社区驱动，参考: http://bbs.oksteward.com/topic/5bc065860f590c684784a411
