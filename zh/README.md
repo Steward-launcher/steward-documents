@@ -1,4 +1,4 @@
-Steward - 帮助中心 -- v3.5.4
+Steward - 帮助中心 -- v3.5.6
 =======
 
 > 友情提示： 如果不需要 `New Tab` 模式，可以选择与 [Steward](https://chrome.google.com/webstore/detail/dnkhdiodfglfckibnfcjbgddcgjgkacd) 同源的 **Steward Lite** -- [Chrome 应用商店](https://chrome.google.com/webstore/detail/jglmompgeddkbcdamdknmebaimldkkbl)
