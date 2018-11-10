@@ -1,3 +1,10 @@
+#### v3.5.6
+- Add blacklist option for wallpaer plugin, click it to add the wallpaper to the blacklist;
+- Fix some bugs.
+
+#### v3.5.5
+- Fix some bugs.
+
 #### v3.5.4
 - Optimize the performance of the Bookmark plugin;
 - Move the jenkins / coin / times plugin to the plugins repository, please use spm to install;
