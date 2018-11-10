@@ -27,7 +27,7 @@
 - website share sorting by use.
 
 #### v3.4.12
-- Redesign the Browser Alfred New Tab mode, please visit lai.app;
+- Redesign the Steward Lite New Tab mode, please visit lai.app;
 - Optimized wallpaper operation.
 
 #### v3.4.11

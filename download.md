@@ -1,5 +1,5 @@
 ## Steward
 - [Chrome Web Store](https://chrome.google.com/webstore/detail/dnkhdiodfglfckibnfcjbgddcgjgkacd)
 
-## Browser Alfred
+## Steward Lite
 - [Chrome Web Store](https://chrome.google.com/webstore/detail/jglmompgeddkbcdamdknmebaimldkkbl)

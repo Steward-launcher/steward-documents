@@ -5,7 +5,7 @@ Update： `Version 3.5.4`
 
 > As a Chinese developer with limited English capacity, I will be grateful for your understanding and will improve this guide continuously.
 
-> Note: if you do not need this New Tab mode, you can try [Browser Alfred](https://chrome.google.com/webstore/detail/jglmompgeddkbcdamdknmebaimldkkbl)
+> Note: if you do not need this New Tab mode, you can try [Steward Lite](https://chrome.google.com/webstore/detail/jglmompgeddkbcdamdknmebaimldkkbl)
 
 > The amount of work required to write this document is huge, there may be omissions, please forgive me or [help me](https://github.com/Steward-launcher/steward-documents).
 

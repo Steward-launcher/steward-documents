@@ -1,4 +1,4 @@
-这里是 `新手入门`，仅针对不是很了解 `Steward` 或 `Browser Alfred` 用户的 `入门级教程` ；如果想寻求常见问题，请 [前往这里](FAQ.md) 。
+这里是 `新手入门`，仅针对不是很了解 `Steward` 或 `Steward Lite` 用户的 `入门级教程` ；如果想寻求常见问题，请 [前往这里](FAQ.md) 。
 
 ***
 
@@ -30,7 +30,7 @@
 ---
 Steward的灵感来自于Mac上的效率神器Alfred，两者同是管家的意思    
 
-Browser Alfred 是不占用 New Tab 的 Steward，避免你做二选一的决定
+Steward Lite 是不占用 New Tab 的 Steward，避免你做二选一的决定
 
 与其它同类扩展的区别
 ---

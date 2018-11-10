@@ -27,7 +27,7 @@
 - website 分享根据使用排序.
 
 #### v3.4.12
-- 重新设计 Browser Alfred New Tab 模式，请访问 lai.app;
+- 重新设计 Steward Lite New Tab 模式，请访问 lai.app;
 - 壁纸操作优化。
 
 #### v3.4.11

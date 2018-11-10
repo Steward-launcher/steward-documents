@@ -1,4 +1,4 @@
-This is a tutorial for beginners of Steward or Browser Alfred. For common questions, please go here [here](FAQ.md) 。
+This is a tutorial for beginners of Steward or Steward Lite. For common questions, please go here [here](FAQ.md) 。
 
 ***
 
@@ -31,7 +31,7 @@ Definition:
 ---
 Steward is inspired by Alfred on Mac OS
 
-Browser Alfred is a Steward that does not take up a new tab so you don’t have to choose between tabs
+Steward Lite is a Steward that does not take up a new tab so you don’t have to choose between tabs
 
 Differences from other similar extensions
 ---

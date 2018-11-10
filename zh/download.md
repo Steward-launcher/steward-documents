@@ -11,8 +11,8 @@
 - [Firefox 附件组件](https://addons.mozilla.org/zh-CN/firefox/addon/steward-a-command-launcher/?src=userprofile)
 
 
-## Browser Alfred
-> Browser Alfred 没有 New Tab 模式，其它功能同步于 Steward
+## Steward Lite
+> Steward Lite 没有 New Tab 模式，其它功能同步于 Steward
 
 ### Chrome
 - [Chrome 应用商店](https://chrome.google.com/webstore/detail/jglmompgeddkbcdamdknmebaimldkkbl)
