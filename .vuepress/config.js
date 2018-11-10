@@ -44,7 +44,9 @@ module.exports = {
                             ['/plugins/browser/History', 'History'],
                             ['/plugins/browser/Downloads', 'Downloads'],
                             ['/plugins/browser/Extension', 'Extension'],
-                            ['/plugins/browser/Chrome', 'Chrome']
+                            ['/plugins/browser/Chrome', 'Chrome'],
+                            ['/plugins/browser/Chrome-Flags', 'Chrome Flags'],
+                            ['/plugins/browser/Tabs-in-window.md', 'Manage tabs in the window'],
                         ]
                     },
                     {
@@ -77,7 +79,10 @@ module.exports = {
                             ['/plugins/other/Todolist.md', 'Todolist'],
                             ['/plugins/other/URL-Block.md', 'URL Block'],
                             ['/plugins/other/Weather.md', 'Weather'],
-                            ['/plugins/other/youdao.md', 'youdao']
+                            ['/plugins/other/youdao.md', 'youdao'],
+                            ['/plugins/other/Coin.md', 'Coin Market'],
+                            ['/plugins/other/Console.md', 'Console'],
+                            ['/plugins/other/User-Scripts.md', 'Userscripts'],
                         ]
                     },
                     ['/Workflows', 'Workflows'],
@@ -109,7 +114,9 @@ module.exports = {
                             ['/zh/plugins/browser/History', '历史记录'],
                             ['/zh/plugins/browser/Downloads', '下载'],
                             ['/zh/plugins/browser/Extension', '扩展'],
-                            ['/zh/plugins/browser/Chrome', 'Chrome']
+                            ['/zh/plugins/browser/Chrome', 'Chrome'],
+                            ['/zh/plugins/browser/Chrome-Flags', 'Chrome Flags'],
+                            ['/zh/plugins/browser/Tabs-in-window.md', '标签页分离与合并'],
                         ]
                     },
                     {
@@ -142,7 +149,21 @@ module.exports = {
                             ['/zh/plugins/other/Todolist.md', '待办事项'],
                             ['/zh/plugins/other/URL-Block.md', '网站屏蔽'],
                             ['/zh/plugins/other/Weather.md', '天气'],
-                            ['/zh/plugins/other/youdao.md', '词典']
+                            ['/zh/plugins/other/youdao.md', '词典'],
+                            ['/zh/plugins/other/Coin-News.md', '币世界新闻'],
+                            ['/zh/plugins/other/Coin.md', '币行情'],
+                            ['/zh/plugins/other/Console.md', 'Console'],
+                            ['/zh/plugins/other/Douban-Book.md', '豆瓣读书'],
+                            ['/zh/plugins/other/Douban-Movie.md', '豆瓣电影'],
+                            ['/zh/plugins/other/Douban-Music.md', '豆瓣音乐'],
+                            ['/zh/plugins/other/Epl-Competitions.md', '英超赛程'],
+                            ['/zh/plugins/other/Soccer-Rank.md', '足球排行榜'],
+                            ['/zh/plugins/other/Hot-Rank.md', '果汁排行榜'],
+                            ['/zh/plugins/other/IP-Search.md', '查询 ip'],
+                            ['/zh/plugins/other/sspai.md', '少数派首页文章'],
+                            ['/zh/plugins/other/Stocks.md', '股票行情'],
+                            ['/zh/plugins/other/User-Scripts.md', '根据 host 查找 userscripts'],
+                            ['/zh/plugins/other/zimuzu-movie.md', '在 zimuzu.io 查找电影'],
                         ]
                     },
                     ['/zh/Workflows', '工作流'],

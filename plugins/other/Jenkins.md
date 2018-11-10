@@ -1,3 +1,11 @@
+- Version: 2
+- Author： [solobat](https://github.com/solobat)
+- Source： [jenkins.js](https://github.com/Steward-launcher/steward-plugins/blob/master/plugins/jenkins.js)
+
+## Install
+`spm install jenkins`
+
+
 ## Commands
 ### Find and open
 `trigger: jk`    
