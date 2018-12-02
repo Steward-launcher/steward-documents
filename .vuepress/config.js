@@ -169,6 +169,7 @@ module.exports = {
                     ['/zh/Workflows', '工作流'],
                     ['/zh/Websites', '网站配置'],
                     ['/zh/wallpaper', '壁纸'],
+                    ['/zh/Themes', '主题'],
                     ['/zh/FAQ', '常用问题'],
                     ['/zh/Authorization-Service', '授权服务'],
                     ['/zh/Beta', '测试版'],

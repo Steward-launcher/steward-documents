@@ -9,7 +9,6 @@
 ## Operating
 - Save button in the lower left corner to save the wallpaper
 - Lower right corner of the refresh button to refresh the wallpaper
-- Double-click the non-Steward ribbon to stop the wallpaper refresh function of the current new tab
 - Shortcut Shows / hides the Steward ribbon(Mac: Command + Right, Windows: Control + Right) 
 
 ![add wallpaper](https://i.imgur.com/CTSaYZ1.png)

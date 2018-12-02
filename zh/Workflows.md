@@ -23,6 +23,30 @@
 `Content` 的填写需要遵循一点简单的语法:
 * 格式： `command|numbers|shift`
     * `command` 是必填的，由 `trigger` + `空格` + `query` 组成，注意不要忘记空格
+        * 可以在 `command` 中使用变量. [Provides some global variables in workflow](https://github.com/solobat/Steward/issues/30)
+        
+        ```bash
+        ### 使用
+        #### 批量打开相关的书签
+        bm {{host}}|shift
+
+        #### 批量搜索选中的文本
+        {{selection}}|all
+
+        ### 全局变量
+        {
+            title,
+            shortTitle,
+            selection,
+            icon,
+            url,
+            host,
+            pathname,
+            baseURL,
+            search,
+            hash
+        }
+        ```
     * `numbers` 是可选的，表示前面的 `command` 所将作用的条目的数量，只对 `trigger` 后面带 `batch` 图标的 command 有效
         * `from-to` 形式，将作用于从 `from` 条到第 `to` 条，如 `bm |1-8` ，注意是从 `1` 开始计数
         * `n` 形式，将作用于第 `n` 条，如 `po |2`，也是从 `1` 开始计数
@@ -41,6 +65,20 @@ wf 屏蔽网站
 使用
 ---
 在命令框中输入`wf `将列出所有的 `workflow`, 选中后按 `Enter/Return` 将执行 `workflow`, 完成后将会有 `Toast` 显示执行的各条命令
+
+示例
+---
+```bash
+### 批量分享
+@weibo
+@twitter
+@facebook
+
+### 批量保存
+@getpocket
+@InstaPaper
+
+```
 
 图示
 ---

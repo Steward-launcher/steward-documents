@@ -5,18 +5,14 @@
 
 ### Chrome
 - [Chrome 应用商店](https://chrome.google.com/webstore/detail/dnkhdiodfglfckibnfcjbgddcgjgkacd)
-- [离线下载](http://owsjc7iz3.bkt.clouddn.com/steward-3.5.3.crx)
+- [离线下载](http://static.oksteward.com/steward-3.6.crx)
 
 ### Firefox
-- [Firefox 附件组件](https://addons.mozilla.org/zh-CN/firefox/addon/steward-a-command-launcher/?src=userprofile)
-
+- [Firefox 附加组件](https://addons.mozilla.org/zh-CN/firefox/addon/steward-a-command-launcher/)
 
 ## Steward Lite
 > Steward Lite 没有 New Tab 模式，其它功能同步于 Steward
 
 ### Chrome
 - [Chrome 应用商店](https://chrome.google.com/webstore/detail/jglmompgeddkbcdamdknmebaimldkkbl)
-- [离线下载](http://owsjc7iz3.bkt.clouddn.com/alfred-3.5.3.crx)
-
-### Firefox
-- [Firefox 附加组件](https://addons.mozilla.org/zh-CN/firefox/addon/browser-alfred-%E6%B5%8F%E8%A7%88%E5%99%A8%E5%91%BD%E4%BB%A4%E5%90%AF%E5%8A%A8%E5%99%A8/?src=userprofile)
+- [离线下载](http://static.oksteward.com/steward%20lite-3.6.crx)

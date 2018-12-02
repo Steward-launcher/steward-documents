@@ -23,6 +23,30 @@ In the Settings -> workflows panel click `+ New Workflow` button, and then fill 
 Content needs to follow a simple syntax:
 * Format： `command|numbers|shift`
     * `command` is required，By the `trigger` + space + `query` composition, be careful not to forget the space
+        * you can use `variables` in `command`. [Provides some global variables in workflow](https://github.com/solobat/Steward/issues/30)
+        
+        ```bash
+        ### usage
+        #### open related bookmarks
+        bm {{host}}|shift
+
+        #### search with selected text
+        {{selection}}|all
+
+        ### global vars
+        {
+            title,
+            shortTitle,
+            selection,
+            icon,
+            url,
+            host,
+            pathname,
+            baseURL,
+            search,
+            hash
+        }
+        ```
     * `numbers` is optional，The number of entries indicating the role of the preceding command is valid only for commands with the batch icon behind the trigger.
         * `from-to` format，will act on the items from `from` to the `to`, such as `bm | 1-8`, note that counting from `1`.
         * `n` format，will act on the `nth` item, such as `po | 2`, also counting from `1`

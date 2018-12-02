@@ -1,3 +1,15 @@
+#### v3.6
+- Workflow 支持变量, plugin shiftkey 通用支持;
+- 主题导出、导入;
+- Wallpaer 新增纯色背景以及作者精选集;
+- Websites 新增 actions 功能，默认添加页面保护的 action, websites 两种编辑模式。
+
+#### v3.5.7
+- 重构主流程，更新插件 api;
+- 添加查询 loading 状态提示;
+- metakey + click/enter 在当前标签页打开链接;
+- 优化 tab 插件.
+
 #### v3.5.6
 - 壁纸插件新增不再显示选项，点击将壁纸加入黑名单;
 - 修复一些 bug.

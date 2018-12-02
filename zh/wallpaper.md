@@ -8,6 +8,8 @@
     - unsplash 免费的 `picsum.photos` -- 可选
     - `Nasa` 每日一图 api -- 可选
     - `Desktoppr` 免费无版权壁纸 -- 可选
+    - `Solid Colors` 纯色背景 -- 可选
+    - `Author's Selection` 开发者精选 -- 可选
 
 ## 操作
 可以通过[壁纸插件](plugins/browser/Wallpaper.md)快捷操作

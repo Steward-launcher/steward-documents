@@ -7,30 +7,67 @@
 
 `wsm install` 可以查找并安装来自 Steward 官方 Websites 仓库的 Website 配置，`wsm uninstall` 则用于卸载
 
+### 操作
+- navs, trigger: `/`
+- outline, trigger: ``` ` ```
+- anchors, trigger: `#`
+- actions, trigger: `;`
+
 #### Website 的数据结构
 ```javascript
 {
-    "author": "solobat", // required
-    "version": 1, // required
-    "host": "sspai.com", // required
-    "icon": "https://cdn.sspai.com/sspai/assets/img/favicon/icon.ico",
-    // Specify the area to extract the outline
-    "outlineScope": ".article-content", // [jquery] css selector
-    // Generate navigations
-    "navs": "nav a", // [jquery] css selecotr
-    // Supplement to `navs`
-    "paths": [
-        {
-            "title": "首页",
-            "urlPattern": "/" // path
-        },
-        {
-            "title": "个人主页",
-            "urlPattern": "/user/784469/posts"
-        }
-    ],
-    "title": "少数派"
-},
+  "author":"solobat", // required
+  "host":"github.com", // required, `minimatch`
+  "icon":"https://assets-cdn.github.com/favicon.ico",
+  // 生成站点导航, trigger: '/' [not required]
+  "navs":"header ul a",
+  // 指定大纲范围, trigger: '`'
+  "outlineScope":".markdown-body,.gollum-markdown-content", // [jquery] css selector
+  // 对 `navs` 的补充, trigger: '/' [not required]
+  "paths":[
+    {
+      "title":"github",
+      "urlPattern":"/"
+    },
+    {
+      "title":"logout",
+      "urlPattern":"/logout"
+    },
+    {
+      "title":"profile",
+      "urlPattern":"/{{user}}"
+    }],
+  "title":"Github",
+  // paths 中的变量赋值
+  "vars":{
+    "user":"solobat"
+  },
+  "version":4, // rqeuired
+  // 自定义的锚点，trigger: '#'
+  "anchors":[
+    {
+      "selector":".xxx",
+      "title":"xxx"
+    }
+  ],
+  // 自定义动作，trigger: ';'
+  "actions":[
+    {
+      "actionType":"click",
+      "pattern":"/*/*", // `minimatch`
+      "selector":".get-repo-btn:nth-child(2)", // css[jquery] selector
+      "title":"Download Zip"
+    },
+    {
+      "actionType":"copy",
+      "extend":{
+        "template":"git clone {{text}}" // string template for copy
+      },
+      "pattern":"/*/*",
+      "selector":".input-sm.form-control",
+      "title":"Copy Git URL"
+  }]
+}
 ```
 
 ### 图示

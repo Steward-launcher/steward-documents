@@ -1,3 +1,15 @@
+#### v3.6
+- Workflow support variables, shiftkey support for plugins;
+- Theme export and import; 
+- Add solid colors background and author' selection for wallpaper;
+- Add actions feature for websites, provide page protection action and two editing modes.
+
+#### v3.5.7
+- Refactor the main process, update the plugin api;
+- Add query loading status for plugins;
+- Metakey[Command / Windows] + click/enter opens the link in the current tab;
+- Optimize the tab plugin.
+
 #### v3.5.6
 - Add blacklist option for wallpaer plugin, click it to add the wallpaper to the blacklist;
 - Fix some bugs.
