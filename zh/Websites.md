@@ -1,6 +1,7 @@
 ### 说明
 - V3.4.2 以后 `GitBook` 类网站将自动适配
 - V3.5.3 以后用户可以分享自己的网站配置到 [Steward 官方 Websites 仓库](https://github.com/Steward-launcher/steward-websites)
+- V3.6.1 以后新增全局 Action 配置[更新说明](http://bbs.oksteward.com/topic/5c1f4ab08863020a452f57bc) 
 
 ### Website 配置的创建与安装
 你可以在设置 --> Websites 里手动创建，也可以在**页面模式**下使用 `wsm create` 来创建
@@ -67,6 +68,34 @@
       "selector":".input-sm.form-control",
       "title":"Copy Git URL"
   }]
+}
+```
+
+#### 全局 Action 配置
+> global action 可以独立于 website 而存在，具体查看[更新说明](http://bbs.oksteward.com/topic/5c1f4ab08863020a452f57bc)
+```javascript
+{
+    "title":"Copy title as a markdown link", // required, 标题
+    "actionType":"copy", // required, action 类型，见下方 ActionType 定义
+	"selector": "", // optional, css[jquery] 选择器
+    "extend":{ // optional，扩展字段，对不同 actionType 有不同配置
+      "template":"[{{title}}]({{url}})", // actionType 为 copy 时的模版定义
+	  "scope": "visible" // selector 的辅助字段， 待扩展
+    },
+    "enable":true // 是否启用,
+	"domain": "minimatch" // TODO
+  }
+```
+
+#### ActionType
+```javascript
+{
+    CLICK: 'click', // 点击
+    HIDE: 'hide', // 隐藏
+    SHOW: 'show', // 显示
+    COPY: 'copy', // 拷贝
+    PAGE_PROTECT: 'pageprotect',
+    TOGGLE_TODO: 'toggleTodo'
 }
 ```
 

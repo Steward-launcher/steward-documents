@@ -1,7 +1,7 @@
 Steward - Help Center
 =======
 
-Update： `Version 3.6`
+Update： `Version 3.6.1`
 
 > As a Chinese developer with limited English capacity, I will be grateful for your understanding and will improve this guide continuously.
 
