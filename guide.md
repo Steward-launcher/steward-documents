@@ -63,7 +63,7 @@ Page Mode
 
 Customize shortcuts
 ---
-> Go to `chrome://extensions/` extension settings page, scroll the page to the bottom, the text button on the bottom right corner of the keyboard shortcuts, click pop-up to modify
+> Go to `chrome://extensions/shortcuts` extension shortcuts settings page, click pop-up to modify
 
 ![Imgur](https://i.imgur.com/1PQfBNq.png)
 

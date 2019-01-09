@@ -69,7 +69,7 @@ Steward 的特点在于：
 自定义快捷键
 ---
 [Steward 快捷键设置](http://bbs.oksteward.com/topic/5a4c77c90f590c684784a3b1)
-> 前往 `chrome://extensions/` 扩展设置页面，将页面滚动到底部，右下角有 `键盘快捷键` 文字按钮，点击弹出可修改
+> 前往 `chrome://extensions/shortcuts` 扩展快捷键设置页面，击弹出可修改
 
 ![Imgur](https://i.imgur.com/ZEKLS4C.png)
 
