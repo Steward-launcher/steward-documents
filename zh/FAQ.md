@@ -9,7 +9,7 @@
 离线安装
 ---
 
-- 将 http://owsjc7iz3.bkt.clouddn.com/steward-version.crx 的**version**替换为具体的版本号即可(不带v)
+- 将 http://img.oksteward.com/steward-version.crx 的**version**替换为具体的版本号即可(不带v)
 - 出入安全考虑，不建议从其它平台下载离线安装包
 
 
@@ -24,7 +24,7 @@
   - 重启浏览器即可！
 
 > 在线下载 Chrome Webstore 方式：
-- 进入 https://chrome-extension-downloader.com/ 复制 `https://chrome.google.com/webstore/detail/dnkhdiodfglfckibnfcjbgddcgjgkacd` 到输入框，下载后拖拽到 `chrome://extensions` 即可。
+- 进入 https://chrome-extension-downloader.com/ 复制 `https://chrome.google.com/webstore/detail/jglmompgeddkbcdamdknmebaimldkkbl` 到输入框，下载后拖拽到 `chrome://extensions` 即可。
 
 快捷键
 ---

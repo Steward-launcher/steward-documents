@@ -1,4 +1,4 @@
-这里是 `新手入门`，仅针对不是很了解 `Steward` 或 `Steward Lite` 用户的 `入门级教程` ；如果想寻求常见问题，请 [前往这里](FAQ.md) 。
+这里是 `新手入门`，仅针对不是很了解 `Steward` 或 `Steward Plus` 用户的 `入门级教程` ；如果想寻求常见问题，请 [前往这里](FAQ.md) 。
 
 ***
 
@@ -30,7 +30,7 @@
 ---
 Steward的灵感来自于Mac上的效率神器Alfred，两者同是管家的意思    
 
-Steward Lite 是不占用 New Tab 的 Steward，避免你做二选一的决定
+Steward Plus 为占用 New Tab 的 Steward，让你更便捷的使用
 
 与其它同类扩展的区别
 ---
@@ -49,12 +49,8 @@ Steward 的特点在于：
 - 主要功能介绍， [请看这里](features.md)
 
 - 全部功能一览
-  ![功能一览](http://owsjc7iz3.bkt.clouddn.com/Steward%E5%8A%9F%E8%83%BD%E8%A1%A8.png)
-  [查看全图](http://owsjc7iz3.bkt.clouddn.com/Steward%E5%8A%9F%E8%83%BD%E8%A1%A8.png)
-
-新标签模式
----
-> 这是 Steward 独有的模式，在新标签页可以使用所有 browser 插件，特点是可以一直操作，还有壁纸功能。
+  ![功能一览](http://img.oksteward.com/Steward%E5%8A%9F%E8%83%BD%E8%A1%A8.png)
+  [查看全图](http://img.oksteward.com/Steward%E5%8A%9F%E8%83%BD%E8%A1%A8.png)
 
 弹出框模式
 ---
@@ -65,6 +61,10 @@ Steward 的特点在于：
 ---
 > 在每个页面内通过快捷键唤出，可以使用所有 browser 插件以及页面插件，特点是轻量、快速，能使用页面对应的插件；
 > 默认快捷键: `Windows: Ctrl + j` `Mac: Command + j`   
+
+新标签模式
+---
+> 这是 Steward Plus 独有的模式，在新标签页可以使用所有 browser 插件，特点是可以一直操作，还有壁纸功能。
 
 自定义快捷键
 ---

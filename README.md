@@ -1,11 +1,12 @@
 Steward - Help Center
 =======
+[Chrome Webstore](https://chrome.google.com/webstore/detail/jglmompgeddkbcdamdknmebaimldkkbl)
 
 Update： `Version 3.6.1`
 
 > As a Chinese developer with limited English capacity, I will be grateful for your understanding and will improve this guide continuously.
 
-> Note: if you do not need this New Tab mode, you can try [Steward Lite](https://chrome.google.com/webstore/detail/jglmompgeddkbcdamdknmebaimldkkbl)
+> Note: if you want to use Steward in a new tab, you can try [Steward Plus](https://chrome.google.com/webstore/detail/dnkhdiodfglfckibnfcjbgddcgjgkacd/)
 
 > The amount of work required to write this document is huge, there may be omissions, please forgive me or [help me](https://github.com/Steward-launcher/steward-documents).
 
@@ -29,7 +30,7 @@ Support Me
 * Email: solopea@gmail.com
 * [Telegram Channel](https://t.me/chromesteward)
 * [Github](https://github.com/solobat/Steward/issues/new)
-* [Webstore](https://chrome.google.com/webstore/detail/dnkhdiodfglfckibnfcjbgddcgjgkacd/support)
+* [Webstore](https://chrome.google.com/webstore/detail/jglmompgeddkbcdamdknmebaimldkkbl/support)
 
 Links
 ---

@@ -1,7 +1,8 @@
 Steward - 帮助中心 -- v3.6.1
 =======
+[Chrome 应用商店](https://chrome.google.com/webstore/detail/jglmompgeddkbcdamdknmebaimldkkbl)
 
-> 友情提示： 如果不需要 `New Tab` 模式，可以选择与 [Steward](https://chrome.google.com/webstore/detail/dnkhdiodfglfckibnfcjbgddcgjgkacd) 同源的 **Steward Lite** -- [Chrome 应用商店](https://chrome.google.com/webstore/detail/jglmompgeddkbcdamdknmebaimldkkbl)
+> 友情提示： 如果想在 `New Tab` 中使用，可以安装 [Steward Plus](https://chrome.google.com/webstore/detail/dnkhdiodfglfckibnfcjbgddcgjgkacd)
 
 > 说明：编写此文档的工作量巨大，如有疏漏之处请见谅，或帮助我[完善此文档](https://github.com/Steward-launcher/steward-documents)。
 
@@ -25,21 +26,24 @@ Steward - 帮助中心 -- v3.6.1
 <div style="display: flex;justify-content: space-around;">
     <div>
         <h4>微信</h4>
-        <img src="http://owsjc7iz3.bkt.clouddn.com/IMG_2180.jpg" width = "250" alt="微信" />
+        <img src="http://img.oksteward.com/IMG_2180.jpg" width = "250" alt="微信" />
     </div>
     <div>
         <h4>支付宝</h4>
-        <img src="http://owsjc7iz3.bkt.clouddn.com/alipay3.jpg" width = "250" alt="微信" />
+        <img src="http://img.oksteward.com/alipay3.jpg" width = "250" alt="微信" />
     </div>
 </div>
 <div>
     <h4>PayPal:</h4> Please click <a href="https://paypal.me/tomasy/5" target="_blank">Payment Link</a>
 </div>
 <div>
-    <h4>BTC: </h4>1EY57mUdurFnjCfLfcNxFyxnC36iMKYh8
+    <h4>BTC: </h4>38zLHwTFfjnK87aBTxxwxoZhoDa45MV5SF
 </div>
 <div>
-    <h4>ETH: </h4>0xafBE53c0f9BEC80cc615d43B011497F316C039B5
+    <h4>BTC LN: </h4> <a href="https://tippin.me/@fmlycls">tippin.me</a>
+</div>
+<div>
+    <h4>ETH: </h4>0x1b2055564258b3F2dd3BB9Ca08CE519c5fF34A88
 </div>
 
 推荐
@@ -54,4 +58,4 @@ Steward - 帮助中心 -- v3.6.1
 * QQ 群: 575397892
 * [微博](http://weibo.com/soloooo)
 * [Github](https://github.com/solobat/Steward/issues/new)
-* [Webstore](https://chrome.google.com/webstore/detail/dnkhdiodfglfckibnfcjbgddcgjgkacd/support)
+* [Webstore](https://chrome.google.com/webstore/detail/jglmompgeddkbcdamdknmebaimldkkbl/support)

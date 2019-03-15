@@ -10,3 +10,4 @@ mkdir docs
 echo "copy to docs/ "
 cp -fr .vuepress/dist/* docs
 rm -fr .vuepress/dist
+cp favicon.ico docs/

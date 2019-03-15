@@ -77,4 +77,4 @@ Notice
 Because workflow contains a variety of batches of operations, you must use `numbers` with caution when creating your workflow.
 
 ## Gif
-![Imgur](http://owsjc7iz3.bkt.clouddn.com/2017-12-08%2022.33.18.gif)
+![Imgur](http://img.oksteward.com/2017-12-08%2022.33.18.gif)
